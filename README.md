@@ -1,6 +1,6 @@
 
 ## Wilson Thiago 
-<img src="WhatsApp Image 2019-10-28 at 22.59.49.jpeg">
+<img src="WhatsApp Image 2019-10-28 at 22.59.49.jpeg" width="320" height="205"/>
 idade:22 anos
 Academico de Ciencia da Computação.
 Universidade Federal da Fronteira Sul(UFFS)
