@@ -8,7 +8,7 @@ idade:22 anos <br/>
 Academico de Ciencia da Computação.<br/>
 Universidade Federal da Fronteira Sul(UFFS)<br/>
 atualmente moro na cidade de Chapecó/SC<br/>
-áreas de interesse:
+áreas de interesse:<br/>
 web/mobile
 
 
